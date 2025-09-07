@@ -87,7 +87,7 @@
 .feedback-form input:focus,
 .feedback-form textarea:focus {
   outline: none;
-  border-color: #808080;
+  border-color: #4e75ff;
 }
 
 .feedback-form button {
